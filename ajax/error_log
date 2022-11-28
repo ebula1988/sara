@@ -1,0 +1,526 @@
+[19-Mar-2019 20:23:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[19-Mar-2019 20:23:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[19-Mar-2019 20:24:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[19-Mar-2019 22:12:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[19-Mar-2019 23:21:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[19-Mar-2019 23:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[19-Mar-2019 23:35:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[20-Mar-2019 00:22:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[20-Mar-2019 15:53:29 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[20-Mar-2019 15:54:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[20-Mar-2019 16:04:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[20-Mar-2019 16:16:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[20-Mar-2019 20:38:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[20-Mar-2019 23:55:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[21-Mar-2019 00:09:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[21-Mar-2019 01:48:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[21-Mar-2019 01:49:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 01:49:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 02:28:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[21-Mar-2019 12:45:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[21-Mar-2019 12:46:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[21-Mar-2019 19:34:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[21-Mar-2019 21:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 21:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 21:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 21:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 21:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 21:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 21:48:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 21:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[21-Mar-2019 23:39:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[21-Mar-2019 23:50:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[22-Mar-2019 01:07:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[22-Mar-2019 10:00:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[22-Mar-2019 10:01:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[22-Mar-2019 10:02:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[23-Mar-2019 00:14:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[23-Mar-2019 01:46:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[23-Mar-2019 01:49:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[23-Mar-2019 01:50:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[23-Mar-2019 03:37:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[23-Mar-2019 22:53:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[23-Mar-2019 22:54:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[23-Mar-2019 22:54:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[24-Mar-2019 00:21:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[24-Mar-2019 00:37:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[24-Mar-2019 00:41:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[24-Mar-2019 00:42:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[24-Mar-2019 00:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[24-Mar-2019 00:47:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[24-Mar-2019 03:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[25-Mar-2019 14:35:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[25-Mar-2019 15:04:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[25-Mar-2019 15:05:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[25-Mar-2019 15:05:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[25-Mar-2019 15:05:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[25-Mar-2019 18:16:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[25-Mar-2019 21:51:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[25-Mar-2019 21:52:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[25-Mar-2019 23:13:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[25-Mar-2019 23:20:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[25-Mar-2019 23:50:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[26-Mar-2019 19:59:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 00:57:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 01:57:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 11:34:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 11:34:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 13:33:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 13:33:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 13:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 15:18:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 16:30:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 16:30:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 16:30:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 16:31:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 16:31:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 16:31:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 16:32:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 16:32:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 16:32:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 16:32:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 16:32:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 16:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 16:32:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 17:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 17:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 17:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 18:34:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 18:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home6/lirocros/public_html/sara/ajax/prestamos.php:70
+Stack trace:
+#0 {main}
+  thrown in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 70
+[27-Mar-2019 19:53:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 20:08:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 20:08:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 20:29:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 21:47:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 21:52:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 21:58:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 22:00:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 226 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(226): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 22:10:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 22:11:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 22:17:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 22:18:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 22:19:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 22:51:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 22:55:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 23:23:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 23:31:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[27-Mar-2019 23:58:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[28-Mar-2019 12:01:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[28-Mar-2019 18:46:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[28-Mar-2019 18:46:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50
+[28-Mar-2019 18:48:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Clientes::listar_todos(), 0 passed in /home6/lirocros/public_html/sara/ajax/prestamos.php on line 227 and exactly 1 expected in /home6/lirocros/public_html/sara/modelos/clientes.php:50
+Stack trace:
+#0 /home6/lirocros/public_html/sara/ajax/prestamos.php(227): Clientes->listar_todos()
+#1 {main}
+  thrown in /home6/lirocros/public_html/sara/modelos/clientes.php on line 50

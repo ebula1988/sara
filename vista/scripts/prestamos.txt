@@ -1,0 +1,254 @@
+var tabla;
+
+//Función que se ejecuta al inicio
+function init(){
+	mostrarform(false);
+	listar();
+
+	$("#formulario").on("submit",function(e)
+	{
+		guardaryeditar(e);	
+	})
+
+	//Cargamos los items al select categoria
+	$.post("../ajax/prestamos.php?op=selectCategoria", function(r){
+	            $("#idcliente").html(r);
+	            $('#idcliente').selectpicker('refresh');
+
+	});
+	
+}
+
+//Función limpiar
+function limpiar()
+{
+	$("#monto").val("");
+	$("#monto_total").val("");
+	
+	$("#idprestamos").val("");
+}
+
+//Función mostrar formulario
+function mostrarform(flag)
+{
+	limpiar();
+	if (flag)
+	{
+		$("#listadoregistros").hide();
+		$("#formularioregistros").show();
+		$("#formularioregistros_abonos").hide();
+		$("#btnGuardar").prop("disabled",false);
+		$("#btnagregar").hide();
+	}
+	else
+	{
+		$("#listadoregistros").show();
+		$("#formularioregistros").hide();
+		$("#formularioregistros_abonos").hide();
+		$("#btnagregar").show();
+	}
+}
+
+
+function mostrarform_abonos(flag)
+{
+	limpiar();
+	if (flag)
+	{
+		$("#listadoregistros").hide();
+		$("#formularioregistros").hide();
+		$("#formularioregistros_abonos").show();
+		$("#btnGuardar").prop("disabled",false);
+		$("#btnagregar").hide();
+	}
+	else
+	{
+		$("#listadoregistros").show();
+		$("#formularioregistros").hide();
+		$("#formularioregistros_abonos").hide();
+		$("#btnagregar").show();
+	}
+}
+
+
+//Función cancelarform
+function cancelarform()
+{
+	limpiar();
+	mostrarform(false);
+}
+
+//Función Listar
+function listar()
+{
+	tabla=$('#tbllistado').dataTable(
+	{
+		"aProcessing": true,//Activamos el procesamiento del datatables
+	    "aServerSide": true,//Paginación y filtrado realizados por el servidor
+	    dom: 'Bfrtip',//Definimos los elementos del control de tabla
+	    buttons: [		          
+		            'copyHtml5',
+		            'excelHtml5',
+		            'csvHtml5',
+		            'pdf'
+		        ],
+		"ajax":
+				{
+					url: '../ajax/prestamos.php?op=listar',
+					type : "get",
+					dataType : "json",						
+					error: function(e){
+						console.log(e.responseText);	
+					}
+				},
+		"bDestroy": true,
+		"iDisplayLength": 5,//Paginación
+	    "order": [[ 0, "desc" ]]//Ordenar (columna,orden)
+	}).DataTable();
+}
+//Función para guardar o editar
+
+function guardaryeditar(e)
+{
+	e.preventDefault(); //No se activará la acción predeterminada del evento
+	$("#btnGuardar").prop("disabled",true);
+	var formData = new FormData($("#formulario")[0]);
+
+	$.ajax({
+		url: "../ajax/prestamos.php?op=guardaryeditar",
+	    type: "POST",
+	    data: formData,
+	    contentType: false,
+	    processData: false,
+
+	    success: function(datos)
+	    {                    
+	          bootbox.alert(datos);	          
+	          mostrarform(false);
+	          tabla.ajax.reload();
+	    }
+
+	});
+	limpiar();
+}
+
+function mostrar(idprestamo)
+{
+	$.post("../ajax/prestamos.php?op=mostrar",{idprestamo : idprestamo}, function(data, status)
+	{
+		data = JSON.parse(data);		
+		mostrarform(true);
+
+		$("#idcliente").val(data.idcliente);
+		$('#idcliente').selectpicker('refresh');
+		$("#monto").val(data.monto);
+		$("#monto_total").val(data.monto_total);
+
+
+		
+ 		$("#idprestamo").val(data.idprestamo);
+ 		
+
+ 	})
+}
+
+
+
+function mostrar_abonos(idprestamo)
+{
+	$.post("../ajax/prestamos.php?op=mostrar",{idprestamo : idprestamo}, function(data, status)
+	{
+		data = JSON.parse(data);		
+		mostrarform_abonos(true);
+
+		$("#idcliente_abonos").val(data.idcliente);
+		$('#idcliente_abonos').selectpicker('refresh');
+		$("#monto_abonos").val(data.monto);
+		
+		$("#monto_total_abonos").val(data.monto_total);
+
+
+		
+ 		$("#idprestamo_abonos").val(data.idprestamo);
+
+
+		
+ 		
+ 		
+
+ 	})
+}
+
+
+//Función para desactivar registros
+function desactivar(idprestamo)
+{
+	bootbox.confirm("¿Está Seguro de desactivar el prestamo?", function(result){
+		if(result)
+        {
+        	$.post("../ajax/prestamos.php?op=desactivar", {idprestamo : idprestamo}, function(e){
+        		bootbox.alert(e);
+	            tabla.ajax.reload();
+        	});	
+        }
+	})
+}
+
+//Función para activar registros
+function activar(idprestamo)
+{
+	bootbox.confirm("¿Está Seguro de activar el prestamo?", function(result){
+		if(result)
+        {
+        	$.post("../ajax/prestamos.php?op=activar", {idprestamo : idprestamo}, function(e){
+        		bootbox.alert(e);
+	            tabla.ajax.reload();
+        	});	
+        }
+	})
+}
+
+$(function(){
+	sumarentradas();	
+});
+
+
+function sumarentradas()
+{
+	$('#contenidos').on('change','#monto_total_abonos','#monto_abonos','#abonos',function(){
+		var num1=parseint($('#monto_total_abonos').val());
+		var num2=parseint($('#monto_abonos').val());
+		var num3=parseint($('#abonos').val());
+		if(isNaN(num1))
+		{
+			num1=0;
+				
+		}
+
+		console.log(num1)
+
+
+		if(isNaN(num2))
+		{
+			num2=0;
+			
+		}
+		console.log(num2)
+
+		if(isNaN(num3))
+		{
+			num3=0;
+
+		}
+		console.log(num3)
+
+		$('#resultado').val(num1+num2+num3); 
+	})
+}
+
+
+
+
+
+
+init();
